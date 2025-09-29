@@ -1,0 +1,5 @@
+{
+  "name": "Dual Quantum Circuit Simulator",
+  "description": "An advanced simulator for dual quantum circuits with optional gates and inter-circuit entanglement, visualizing multidimensional quantum flow.",
+  "requestFramePermissions": []
+}
